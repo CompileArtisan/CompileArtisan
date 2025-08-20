@@ -3,4 +3,5 @@
 <span > [![image](https://github.com/user-attachments/assets/07bbb14c-8612-4211-beff-7247b5045fb3)
 ](https://compileartisan.pages.dev/) <span />
 
+![](https://komarev.com/ghpvc/?username=CompileArtisan&color=0000aa)
 
