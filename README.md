@@ -2,7 +2,7 @@
 
 A passionate coder and tech enthusiast. You can find me on GitHub as [@CompileArtisan](https://github.com/CompileArtisan)
 
-[![Profile Image](https://github.com/user-attachments/assets/07bbb14c-8612-4211-beff-7247b5045fb3)](https://compileartisan.pages.dev/)
+[![Profile Image](https://github.com/user-attachments/assets/07bbb14c-8612-4211-beff-7247b5045fb3)](https://compileartisan.dev/)
 
 ### Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/praanesh_nair/)
