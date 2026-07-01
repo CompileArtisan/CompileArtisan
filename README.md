@@ -10,17 +10,24 @@ You can find me on GitHub as <a href="https://github.com/CompileArtisan">@Compil
 
 <br><br>
 
-<b>Connect with me:</b>
-<br><br>
+<details>
+<summary><kbd>🔗 Connect with me</kbd></summary>
+<br>
 
 <a href="https://www.instagram.com/praanesh_nair/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://linkedin.com/in/praanesh-nair"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://compileartisan.pages.dev/rss.xml"><img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white"></a>
 
-<br><br>
+</details>
 
-<b>Profile Views:</b>
 <br>
+
+<details>
+<summary><kbd>📊 Profile Views</kbd></summary>
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=CompileArtisan&color=0000aa" alt="Profile Views">
+
+</details>
 
 </kbd></blockquote>
